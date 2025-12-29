@@ -1,16 +1,47 @@
-## Hi there 👋
+## Hi, I’m Dhanush 👋
 
-<!--
-**DhanushGowdaKR/DhanushGowdaKR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Android developer focused on building modern Android applications using **Kotlin** and **Jetpack Compose**.
 
-Here are some ideas to get you started:
+- 🎯 Primary focus: Native Android (Kotlin + Compose)
+- 🧩 Interested in clean architecture, reusable libraries, and UI systems
+- 🚀 Built and published real-world apps on Google Play Store
+- 🛠️ Actively building libraries and apps under **Dharam Studios**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack
+
+- **Language:** Kotlin  
+- **UI:** Jetpack Compose, Material 3  
+- **Architecture:** MVVM, MVI, Clean Architecture  
+- **Backend / Cloud:** Firebase (Auth, Firestore, Storage)  
+- **Tools:** Android SDK, Git, Gradle  
+
+---
+
+## 📱 Projects
+
+### **Peer Docs**
+Public document-sharing Android app  
+- Built with Kotlin + Jetpack Compose  
+- AI-based title, description, and hashtag generation  
+- Published on Google Play Store  
+
+### **Auto DND**
+Offline-first Android app  
+- Automates Do Not Disturb mode using user-defined rules  
+- Focused on reliability and system-level Android features  
+
+---
+
+## 📦 Libraries & Experiments
+
+I build and maintain Kotlin/Android libraries and experimental projects under **Dharam Studios**:
+👉 https://github.com/DharamStudios
+
+---
+
+## 🔗 Connect with me
+
+- GitHub: https://github.com/dhanushgowdakr  
+- LinkedIn: https://www.linkedin.com/in/dhanushgowdakr
